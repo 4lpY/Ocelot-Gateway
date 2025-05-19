@@ -38,6 +38,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:5281"
+    "BaseUrl": "alpys-gateway.azurewebsites.net"
   }
 }

@@ -38,6 +38,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "alpys-gateway.azurewebsites.net"
+    "BaseUrl": "https://alpys-gateway.azurewebsites.net"
   }
 }

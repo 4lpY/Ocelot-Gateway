@@ -35,6 +35,18 @@
       ],
       "UpstreamPathTemplate": "/mobile-billing-service/bills/detailed",
       "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/send/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "alpys-llmservice-bsgufzdfe8f2gkfp.francecentral-01.azurewebsites.net",
+          "Port": 443
+        }
+      ],
+      "UpstreamPathTemplate": "/llm/send",
+      "UpstreamHttpMethod": [ "POST" ]
     }
   ],
   "GlobalConfiguration": {

@@ -77,6 +77,11 @@ Runs on: `https://localhost:5000`
 
 ---
 
+### Video Link
+https://youtu.be/3O6gRAq8Scw
+
+
+
 ## 👥 Authors
 
 Developed by **Yigit Alp YUKSEL** – SE4458 Assignment 2
